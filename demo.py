@@ -1,3 +1,3 @@
-prit("Testing Jenkins workflow.......")
+print("Testing Jenkins workflow.......")
 
 print("This is ver4.....")
